@@ -690,8 +690,8 @@ class _AboutUsWidgetState extends State<AboutUsWidget> {
                                                   borderRadius:
                                                       BorderRadius.circular(
                                                           60.0),
-                                                  child: Image.network(
-                                                    'https://images.unsplash.com/photo-1550082849-c4603c163b37?w=500&h=500',
+                                                  child: Image.asset(
+                                                    'assets/images/lupita.jpeg',
                                                     width: 120.0,
                                                     height: 120.0,
                                                     fit: BoxFit.cover,
@@ -721,7 +721,7 @@ class _AboutUsWidgetState extends State<AboutUsWidget> {
                                                       ),
                                             ),
                                             Text(
-                                              'CEO & Co-founder',
+                                              'Researcher and Developer',
                                               style:
                                                   FlutterFlowTheme.of(context)
                                                       .bodyMedium

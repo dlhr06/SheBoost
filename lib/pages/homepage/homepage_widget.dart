@@ -676,7 +676,7 @@ class _HomepageWidgetState extends State<HomepageWidget> {
                                                 unawaited(
                                                   () async {
                                                     await launchURL(
-                                                        'https://www.google.com/');
+                                                        'https://github.com/dlhr06/SheBoost/tree/flutterflow');
                                                   }(),
                                                 );
                                               },
@@ -1256,7 +1256,7 @@ class _HomepageWidgetState extends State<HomepageWidget> {
                                                                               BorderRadius.circular(50.0),
                                                                           child:
                                                                               Image.asset(
-                                                                            'assets/images/49svh_2.png',
+                                                                            'assets/images/lupita.jpeg',
                                                                             width:
                                                                                 60.0,
                                                                             height:
