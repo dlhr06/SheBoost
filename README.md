@@ -1,6 +1,16 @@
 # SheBoost
 
-A new Flutter project.
+An AI assistant to improve your professional profile. 👩🏼‍💼🗂
+
+** Project to Google Google Women Techmakers She Builds AI Hackathon ** 
+
+Technologies: 
+
+-  Gemini by Google
+
+- FlutterFlow
+
+- Supabase
 
 ## Getting Started
 
