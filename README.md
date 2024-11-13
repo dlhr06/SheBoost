@@ -2,7 +2,7 @@
 
 An AI assistant to improve your professional profile. 👩🏼‍💼🗂
 
-** Project to Google Google Women Techmakers She Builds AI Hackathon ** 
+**Project to Google Google Women Techmakers She Builds AI Hackathon** [https://devpost.com/software/sheboost]
 
 Technologies: 
 
